@@ -1,0 +1,26 @@
+p{
+    text-align: center;
+    font-size: 40pt;
+    background: lightgray;
+    border-radius: 20px;
+}
+
+#red{
+    border: 5px solid red;
+}
+
+#green{
+    border: 5px solid green;
+}
+
+#blue{
+    border: 5px solid blue;
+}
+
+#orange{
+    border: 5px solid orange;
+}
+
+#yellow{
+    border: 5px solid yellow;
+}
